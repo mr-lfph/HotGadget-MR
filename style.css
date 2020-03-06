@@ -1,0 +1,43 @@
+
+.carousel .carousel-indicators li {
+    background-color: green;
+}
+.carousel .carousel-indicators li.active {
+    background-color: red;
+}
+.carousel-item
+{
+    padding: 10px 20px;
+    background-color:rgb(236, 240, 245);
+}
+.carousel-item p
+{
+    padding: 20px 0px;
+}
+.button-buy-now{
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.price{
+color:black;
+font-weight: bold;
+padding: 10px 10px;
+}
+.card img{
+width: 60%;
+padding-top: 20px;
+
+}
+.heading
+{
+    padding: 30px 10px;
+   
+}
+.heading hr
+{
+    width: 100px;
+    border-radius: 5px;
+    border: 5px solid orange;
+}
